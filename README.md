@@ -36,7 +36,7 @@ eine Person übernimmt **Eingabe und Programmablauf**, die andere **Rechenlogik 
 - Formatierte Ausgabe des Ergebnisses auf der Konsole
 - README pflegen
 
-### Person B — *(Name Partner:in eintragen)*
+### Person B — Mario
 
 **Schwerpunkt: Rechenlogik und Verlauf**
 
